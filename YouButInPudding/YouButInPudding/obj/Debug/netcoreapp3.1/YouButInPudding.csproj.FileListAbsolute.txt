@@ -1,0 +1,15 @@
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\bin\Debug\netcoreapp3.1\YouButInPudding.exe
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\bin\Debug\netcoreapp3.1\YouButInPudding.deps.json
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\bin\Debug\netcoreapp3.1\YouButInPudding.runtimeconfig.json
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\bin\Debug\netcoreapp3.1\YouButInPudding.runtimeconfig.dev.json
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\bin\Debug\netcoreapp3.1\YouButInPudding.dll
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\bin\Debug\netcoreapp3.1\YouButInPudding.pdb
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.csprojAssemblyReference.cache
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.Form1.resources
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.csproj.GenerateResource.cache
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.AssemblyInfoInputs.cache
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.AssemblyInfo.cs
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.dll
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.pdb
+C:\Users\aliss\Desktop\GuI\ProgramFunprojects\YouButInPudding\YouButInPudding\obj\Debug\netcoreapp3.1\YouButInPudding.genruntimeconfig.cache
