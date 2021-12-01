@@ -26,6 +26,8 @@ namespace YouButInPudding
             InitializeComponent();
             comboBox1.Items.AddRange(weights);
             comboBox2.Items.AddRange(puddins);
+            comboBox1.SelectedIndex = 0;
+            comboBox2.SelectedIndex = 0;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -84,6 +86,11 @@ namespace YouButInPudding
         }
 
         private void richTextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
