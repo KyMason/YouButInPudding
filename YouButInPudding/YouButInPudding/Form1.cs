@@ -21,6 +21,7 @@ namespace YouButInPudding
         static string calories;
         static string WeighType;
         static string PuddinType;
+        static string weightGain;
         public Form1()
         {
             InitializeComponent();
@@ -46,7 +47,6 @@ namespace YouButInPudding
         {
             object PuddinTypeSelec = comboBox2.SelectedItem;
             PuddinType = PuddinTypeSelec.ToString();
-            
         }
 
         private void caloriCalc()
@@ -67,10 +67,21 @@ namespace YouButInPudding
                 case "Vanilla Sugar Free":
                     calMultiplier = .652;
                     break;
-                
             }
-            calafterCalc = calMultiplier * UserWeight;
+            calafterCalc = calMultiplier * UserWeight; 
             calories = calafterCalc.ToString("F2").TrimEnd('0');
+        }
+
+        private void weightGainmeth()
+        {
+            double weightDivider;
+            if (WeighType == "lb")
+                weightDivider = 3500;
+            else
+                weightDivider = 7700;
+
+            double weightGainbfrestr = (Double.Parse(calories)/weightDivider);
+            weightGain = weightGainbfrestr.ToString("F2").TrimEnd('0');
         }
         
         private void button1_Click(object sender, EventArgs e)
@@ -80,9 +91,10 @@ namespace YouButInPudding
                 UserWeight /= 2.205;
             UserWeight *= 1000;
             caloriCalc();
-           
-            richTextBox2.Text = "Calories: " + calories;
-
+            weightGainmeth();
+            richTextBox2.Text = "Calories: " + calories
+                +"\nIf eaten you would gain " + weightGain +
+                " " + WeighType;
         }
 
         private void richTextBox2_TextChanged(object sender, EventArgs e)
